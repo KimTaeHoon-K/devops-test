@@ -1,0 +1,19 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="19" cy="19" r="19" fill="#F2F2F2"/>
+<path d="M29 24C29 23.4477 28.5523 23 28 23H10C9.44771 23 9 23.4477 9 24V29C9 29.5523 9.44771 30 10 30H28C28.5523 30 29 29.5523 29 29V24Z" fill="#A5A5A5"/>
+<circle cx="12.004" cy="26.5" r="0.8" fill="white"/>
+<circle cx="15.004" cy="26.5" r="0.8" fill="white"/>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26 30H28C28.5523 30 29 29.3827 29 28.6212V28.6742V25.9167V24.3788C29 23.6173 28.5523 23 28 23H26C26.5523 23 27 23.6173 27 24.3788V25.9167V28.6742V28.6212C27 29.3827 26.5523 30 26 30Z" fill="#ABABAB"/>
+</g>
+<path d="M27.2072 9.72528C27.0846 9.29598 26.6922 9 26.2457 9H11.7543C11.3078 9 10.9154 9.29598 10.7928 9.72528L9 16H29L27.2072 9.72528Z" fill="#C8C8C8"/>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.2457 9C24.6922 9 25.0846 9.29598 25.2073 9.72528L27 16H29L27.2073 9.72528C27.0846 9.29598 26.6922 9 26.2457 9H24.2457Z" fill="#ABABAB"/>
+</g>
+<path d="M29 16C29 15.4477 28.5523 15 28 15H10C9.44771 15 9 15.4477 9 16V21C9 21.5523 9.44771 22 10 22H28C28.5523 22 29 21.5523 29 21V16Z" fill="#A5A5A5"/>
+<circle cx="12.004" cy="18.5" r="0.8" fill="white"/>
+<circle cx="15.004" cy="18.5" r="0.8" fill="white"/>
+<g style="mix-blend-mode:multiply" opacity="0.4">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26 22H28C28.5523 22 29 21.3827 29 20.6212V20.6742V17.9167V16.3788C29 15.6173 28.5523 15 28 15H26C26.5523 15 27 15.6173 27 16.3788V17.9167V20.6742V20.6212C27 21.3827 26.5523 22 26 22Z" fill="#ABABAB"/>
+</g>
+</svg>

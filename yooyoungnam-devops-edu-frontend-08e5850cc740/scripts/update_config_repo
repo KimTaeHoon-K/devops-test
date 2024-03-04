@@ -1,0 +1,12 @@
+#! /bin/bash
+
+APP_NAME=$1
+IMAGE_NAME=$2
+
+kustomize edit set image $APP_NAME=$IMAGE_NAME
+
+git config --global user.email $EXECUTOR_EMAIL
+git config --global user.name $EXECUTOR_NAME
+git add .
+git commit -m "\${APP_NAME} image tag updated"
+git push https://$GIT_CREDENTIALS_USR:$GIT_CREDENTIALS_PSW@bitbucket.org/okestrolab/cmp-gitops.git dev

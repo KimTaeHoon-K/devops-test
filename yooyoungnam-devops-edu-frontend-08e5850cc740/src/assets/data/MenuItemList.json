@@ -1,0 +1,249 @@
+[
+  {
+    "key": "menu1",
+    "name": "dashboard",
+    "link": "/contrabass",
+    "meta": {
+      "title": "menu.dashboard",
+      "icon": "icon-dashboard"
+    }
+  },
+  {
+    "key": "menu2",
+    "name": "compute",
+    "meta": {
+      "title": "menu.compute.main",
+      "icon": "icon-compute"
+    },
+    "subMenuItems": [
+      {
+        "key": "menu2-1",
+        "name": "instance",
+        "link": "/compute/instance",
+        "meta": {
+          "title": "menu.compute.instance.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu2-2",
+        "name": "instance snapshot",
+        "link": "/compute/instance-snapshot",
+        "meta": {
+          "title": "menu.compute.instance-snapshot.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu2-3",
+        "name": "flavor",
+        "link": "/compute/flavor",
+        "meta": {
+          "title": "menu.compute.flavor.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu2-4",
+        "name": "image",
+        "link": "/compute/image",
+        "meta": {
+          "title": "menu.compute.image.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu2-5",
+        "name": "key pair",
+        "link": "/compute/key-pair",
+        "meta": {
+          "title": "menu.compute.key-pair.main",
+          "icon": ""
+        }
+      }
+    ]
+  },
+  {
+    "key": "menu3",
+    "name": "storage",
+    "meta": {
+      "title": "menu.storage.main",
+      "icon": "icon-storage"
+    },
+    "subMenuItems": [
+      {
+        "key": "menu3-1",
+        "name": "volume",
+        "link": "/storage/volume",
+        "meta": {
+          "title": "menu.storage.volume.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu3-2",
+        "name": "volume snapshot",
+        "link": "/storage/volume-snapshot",
+        "meta": {
+          "title": "menu.storage.volume-snapshot.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu3-3",
+        "name": "volume type",
+        "link": "/storage/volume-type",
+        "meta": {
+          "title": "menu.storage.volume-type.main",
+          "icon": ""
+        }
+      }
+    ]
+  },
+  {
+    "key": "menu4",
+    "name": "network",
+    "meta": {
+      "title": "menu.network.main",
+      "icon": "icon-network"
+    },
+    "subMenuItems": [
+      {
+        "key": "menu4-1",
+        "name": "network",
+        "link": "/network/network",
+        "meta": {
+          "title": "menu.network.network.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu4-2",
+        "name": "port",
+        "link": "/network/port",
+        "meta": {
+          "title": "menu.network.port.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu4-3",
+        "name": "router",
+        "link": "/network/router",
+        "meta": {
+          "title": "menu.network.router.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu4-4",
+        "name": "floating ip",
+        "link": "/network/floating-ip",
+        "meta": {
+          "title": "menu.network.floating-ip.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu4-5",
+        "name": "load balancer",
+        "link": "/network/load-balancer",
+        "meta": {
+          "title": "menu.network.load-balancer.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu4-6",
+        "name": "security group",
+        "link": "/network/security-group",
+        "meta": {
+          "title": "menu.network.security-group.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu4-7",
+        "name": "topology",
+        "link": "/network/topology",
+        "meta": {
+          "title": "menu.network.topology.main",
+          "icon": ""
+        }
+      }
+    ]
+  },
+  {
+    "key": "menu5",
+    "name": "management",
+    "meta": {
+      "title": "menu.management.main",
+      "icon": "icon-management"
+    },
+    "subMenuItems": [
+      {
+        "key": "menu5-1",
+        "name": "project",
+        "link": "/management/project",
+        "meta": {
+          "title": "menu.management.project.main",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu5-2",
+        "name": "user",
+        "link": "/management/user",
+        "meta": {
+          "title": "menu.management.user",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu5-3",
+        "name": "user group",
+        "link": "/management/user-group",
+        "meta": {
+          "title": "menu.management.user-group",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu5-4",
+        "name": "role",
+        "link": "/management/role",
+        "meta": {
+          "title": "menu.management.role",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu5-5",
+        "name": "hypervisor",
+        "link": "/management/hypervisor",
+        "meta": {
+          "title": "menu.management.hypervisor",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu5-6 ",
+        "name": "host aggregates",
+        "link": "/management/host-aggregates",
+        "meta": {
+          "title": "menu.management.host-aggregates",
+          "icon": ""
+        }
+      },
+      {
+        "key": "menu5-7",
+        "name": "storage backend",
+        "link": "/management/storage-backend",
+        "meta": {
+          "title": "menu.management.storage-backend.main",
+          "icon": ""
+        }
+      }
+    ]
+  }
+]
